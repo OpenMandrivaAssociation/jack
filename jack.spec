@@ -9,7 +9,6 @@ Release:	%{release}
 License:	GPL
 Group:		Sound
 URL:		http://www.home.unix-ag.org/arne/jack/
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 Source0:	%{name}-%{version}.tar.bz2
 
