@@ -1,5 +1,5 @@
 %define version 3.1.1
-%define rel	 5
+%define rel	 6
 %define release %mkrel %{rel}
 
 Summary:	Console frontend for CD rippers and audio encoders
