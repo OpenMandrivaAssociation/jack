@@ -1,7 +1,7 @@
 Summary:		Console frontend for CD rippers and audio encoders
 Name:		jack
 Version:		3.1.1
-Release:		9
+Release:		10
 License:		GPL
 Group:		Sound
 URL:		http://www.home.unix-ag.org/arne/jack/
