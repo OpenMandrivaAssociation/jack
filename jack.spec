@@ -4,7 +4,7 @@ Version:		3.1.1
 Release:		10
 License:		GPL
 Group:		Sound
-URL:		http://www.home.unix-ag.org/arne/jack/
+URL:		https://www.home.unix-ag.org/arne/jack/
 Source0:		%{name}-%{version}.tar.bz2
 BuildRequires:	python-devel
 BuildRequires:	python-id3 
